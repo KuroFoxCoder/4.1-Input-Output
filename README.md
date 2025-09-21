@@ -1,5 +1,5 @@
 # Video
-video contents go here
+https://drive.google.com/file/d/13OaHsp3HuIF4xh_XpniKiAFimfk02uDN/view?usp=sharing
 
 # Thought Process
 I documented a brainstorming process I had [here](https://github.com/KuroFoxCoder/4.1-Input-Output/blob/main/io%20thought%20process.drawio). 
